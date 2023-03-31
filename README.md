@@ -1,8 +1,8 @@
 # Hi there 👋
 
 
-Hello !! I’m Khaled, a passionate Globe-trotter developer based in Montréal. I love coding, mentoring, teaching and learning.
-I'm currently working at Zenika Montréal as senior technical consultant (still i'm not that old).
+Hello !! I’m Khaled, a passionate Globe-trotter developer based in Annecy(France). I love coding, mentoring, teaching and learning.
+I'm Partner and Chief Technology Officer at Socradev CH.
 
 what i'm doing right now :construction: :
 
